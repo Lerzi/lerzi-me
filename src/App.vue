@@ -5,7 +5,7 @@
 import { isDark, preferredDark } from '~/composables'
 
 useHead({
-  title: 'Vitesse',
+  title: 'LERZI',
   meta: [
     { name: 'description', content: 'Opinionated Vite Starter Template' },
     {
