@@ -1,7 +1,10 @@
 <template>
-  <main class="text-center text-gray-700 dark:text-gray-200">
+  <main class="text-gray-700 dark:text-gray-200">
     <Header />
-    <RouterView pt-10 />
+    <div flex="~" flex-col justify-center items-center>
+      <RouterView pt-10 w-250 />
+    </div>
+
     <!-- <Footer /> -->
   </main>
 </template>
