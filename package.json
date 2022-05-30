@@ -13,6 +13,8 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "@iconify-json/mdi": "^1.1.19",
+    "@iconify/json": "^2.1.54",
     "@vueuse/core": "^8.4.2",
     "@vueuse/head": "^0.7.6",
     "nprogress": "^0.2.0",
