@@ -7,20 +7,17 @@
       LERZI
     </h1>
     <div>
-      Yo! 我是黄顺，一个前端工程师
+      Yo! 我是黄顺，一个对开发保持着热情的前端工程师
     </div>
     <div>
       主要使用技术栈是<span px2 text-xl text-pink-600 font-bold>Vue</span>
     </div>
     <div>
-      如果你想看我的个人项目，可以
       <router-link to="/projects" px2 hover:text-pink-600 font-bold delay-100>
-        点击这里
+        这里
       </router-link>
+      可以看到我的一些项目
     </div>
-    <!-- <div>
-      你可以通过添加我的 微信 与我取得联系，但请说明来意
-    </div> -->
   </div>
 </template>
 <!--
